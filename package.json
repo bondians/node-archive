@@ -1,0 +1,9 @@
+{
+  "name": "archive-node",
+  "version": "0.0.1",
+  "description": "A very new project",
+  "main": "views/app.js",
+  "volta": {
+    "node": "16.13.0"
+  }
+}
